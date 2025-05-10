@@ -1,0 +1,144 @@
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\appsettings.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.staticwebassets.endpoints.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.exe
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.deps.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.runtimeconfig.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\IMCApi.pdb
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.csproj.AssemblyReference.cache
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfoInputs.cache
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfo.cs
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.csproj.CoreCompileInputs.cache
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\scopedcss\bundle\IMCApi.styles.css
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.build.IMCApi.props
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IMCApi.props
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IMCApi.props
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.csproj.Up2Date
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\refint\IMCApi.dll
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.pdb
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\IMCApi.genruntimeconfig.cache
+C:\Users\0040482421020\Documents\IMCApi\IMCApi\obj\Debug\net8.0\ref\IMCApi.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.staticwebassets.endpoints.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.exe
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.deps.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.runtimeconfig.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.pdb
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.AssemblyReference.cache
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfoInputs.cache
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfo.cs
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.CoreCompileInputs.cache
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\scopedcss\bundle\IMCApi.styles.css
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.build.IMCApi.props
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IMCApi.props
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IMCApi.props
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.Up2Date
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\refint\IMCApi.dll
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.pdb
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.genruntimeconfig.cache
+E:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\ref\IMCApi.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.staticwebassets.endpoints.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.exe
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.deps.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.runtimeconfig.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.pdb
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.AssemblyReference.cache
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfo.cs
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\scopedcss\bundle\IMCApi.styles.css
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.build.IMCApi.props
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IMCApi.props
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IMCApi.props
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.Up2Date
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\refint\IMCApi.dll
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.pdb
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.genruntimeconfig.cache
+D:\Estudos\Cursos\Criando API C#\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\ref\IMCApi.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\appsettings.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.staticwebassets.endpoints.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.exe
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.deps.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.runtimeconfig.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\IMCApi.pdb
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfoInputs.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.AssemblyInfo.cs
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\scopedcss\bundle\IMCApi.styles.css
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.IMCApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.build.IMCApi.props
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IMCApi.props
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IMCApi.props
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.csproj.Up2Date
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\refint\IMCApi.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.pdb
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\IMCApi.genruntimeconfig.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Faculdade\Projetos\Projetos de API\Calculadora IMC\API\IMCApi\obj\Debug\net8.0\ref\IMCApi.dll

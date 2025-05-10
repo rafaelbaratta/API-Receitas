@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Receitas</title>
+    <link href="css/imcapi.css" rel="Stylesheet">
+    <link rel="shortcut icon" type="image/png" href="assets/calculadora.png">
+    <script src="script/calculoimc.js"></script>
+</head>
+
+    <body>
+        <header>
+            <img class="logo" src="assets/calculadora.png">
+            <h2 class="title-bar">Calculadora de IMC</h2>
+            <div class="nav-bar">          
+                <a href="./index.html"><img src="assets/calculadora.png">  Calcular IMC</a>
+                <a href="./receitas.html"><img src="assets/icone.png">  Receitas</a>
+                <a href="./configuracao.html"><img src="assets/configuracao.png"> Edição</a>
+            </div>
+
+        </header>
+
+
+        <main>
+            <h1>Calculadora de IMC</h1>
+            <br />
+
+            <h4 for="weight">Peso (kg):</h4>
+            <input type="number" id="weight" placeholder="Informe o peso em Kg">
+            <br />
+
+            <h4 for="height">Altura (cm):</h4>
+            <input type="number" id="height" placeholder="Informe a altura em cm">
+            <br />
+
+            <button onclick="calcularIMC()">Calcular IMC</button>
+            <br />
+            <br />
+            
+            <h4 for="height">Tipo da Receita:</h4>
+            <input type="text" id="tipo" placeholder="Tipo da receita" disabled readonly/>
+            <br />
+
+            <h4 for="height">Nome da Receita:</h4>
+            <input type="text" id="receita" placeholder="Nome da receita" disabled readonly/>
+            <br />
+
+            <h4 for="height">Ingredientes da Receita:</h4>
+            <textarea type="text" id="ingredientes" placeholder="Ingredientes da receita" disabled readonly></textarea>
+            
+            <div id="result">
+
+            </div>
+
+        </main>
+
+    </body>
+</html>

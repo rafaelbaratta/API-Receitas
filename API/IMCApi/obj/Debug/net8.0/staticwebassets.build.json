@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0PzHJUMsbjyHmeuIJwCtFtNzUVc/B2RME4PiPqiwAyQ=",
+  "Source": "IMCApi",
+  "BasePath": "_content/IMCApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

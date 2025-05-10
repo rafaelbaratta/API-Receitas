@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0040482421020\\Documents\\IMCApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF67CB-5700-4625-9B73-72414AC90922}|IMCApi\\IMCApi.csproj|c:\\users\\0040482421020\\documents\\imcapi\\imcapi\\controllers\\receitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DF67CB-5700-4625-9B73-72414AC90922}|IMCApi\\IMCApi.csproj|solutionrelative:imcapi\\controllers\\receitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DF67CB-5700-4625-9B73-72414AC90922}|IMCApi\\IMCApi.csproj|c:\\users\\0040482421020\\documents\\imcapi\\imcapi\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DF67CB-5700-4625-9B73-72414AC90922}|IMCApi\\IMCApi.csproj|solutionrelative:imcapi\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceitaController.cs",
+              "DocumentMoniker": "C:\\Users\\0040482421020\\Documents\\IMCApi\\IMCApi\\Controllers\\ReceitaController.cs",
+              "RelativeDocumentMoniker": "IMCApi\\Controllers\\ReceitaController.cs",
+              "ToolTip": "C:\\Users\\0040482421020\\Documents\\IMCApi\\IMCApi\\Controllers\\ReceitaController.cs",
+              "RelativeToolTip": "IMCApi\\Controllers\\ReceitaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:05:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receita.cs",
+              "DocumentMoniker": "C:\\Users\\0040482421020\\Documents\\IMCApi\\IMCApi\\Receita.cs",
+              "RelativeDocumentMoniker": "IMCApi\\Receita.cs",
+              "ToolTip": "C:\\Users\\0040482421020\\Documents\\IMCApi\\IMCApi\\Receita.cs",
+              "RelativeToolTip": "IMCApi\\Receita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:57:39.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
