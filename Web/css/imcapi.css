@@ -123,8 +123,7 @@ main button {
         background-color: #6aa798;
         box-shadow: 2px 2px #5b9284;
         border: 1px solid #5b9284;
-         color: #3d140a;
-
+        color: #3d140a;
     }
 
     main button:active {
@@ -132,6 +131,10 @@ main button {
         box-shadow: 2px 2px #52776e;
         border: 1px solid #52776e;
         color: #1f0702;
+        height: 38px;
+        width: 298px;
+        margin-bottom: 1px;
+        margin-top: 21px;
     }
 
 .section {
@@ -168,5 +171,5 @@ th, td {
 }
 
 .actions button {
-    margin-right: 5px;
+    margin: auto;
 }

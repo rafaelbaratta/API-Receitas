@@ -22,7 +22,7 @@ async function loadReceitas() {
             <td>${r.ingredientes}</td>
             <td class="actions">
                 <a href="./configuracao.html?id=${r.receitaId}">
-                    <button style="margin: auto;">Editar</button>
+                    <button class="actions";">Editar</button>
                 </a>
             </td>`;
             tbody.appendChild(row);
